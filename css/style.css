@@ -1,0 +1,115 @@
+.box1{
+    display: flex;
+    margin:67px 
+}
+.navigation{
+    display: flex;
+    margin-left: 725px;
+}
+.nav-a{
+    margin-left: 20px;
+}
+.left-block{
+    width: 630px;
+    margin-top: 285px;
+    margin-right: 307px;
+}
+.right-block{
+    width: 850px;
+    margin-top: 267px;
+}
+.satauri{
+    text-align: center;
+}
+.divbox1{
+    width: 360px;
+    height: 451px;
+    background-color: #FBBA77;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pc{
+    margin-top: 88px;
+    margin-left: 130px;
+    margin-bottom: 57px;
+    margin-right: 136px;
+}
+.website{
+    margin-bottom: 13px;
+    margin-left: 130px;
+    font-size: 22px;
+}
+.paragrap{
+    width: 328px;
+    margin-left: 21px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 16px;
+}
+.readmore{
+    background-color: #FFFFFF;
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 119px;
+}
+.divbox2{
+    width: 360px;
+    height: 451px;
+    background-color: #41EAE3;
+    justify-content: center;
+    align-items: center;
+}
+.meore{
+    margin-top: 88px;
+    margin-left: 130px;
+    margin-bottom: 57px;
+    margin-right: 136px;
+}
+.redes{
+    margin-bottom: 13px;
+    margin-left: 130px;
+    font-size: 22px;
+}
+.divbox3{
+    width: 360px;
+    height: 451px;
+    background-color: #69529F;
+    justify-content: center;
+    align-items: center;
+}
+.divbox4{
+    width: 360px;
+    height: 451px;
+    background-color: #4386D2;
+    justify-content: center;
+    align-items: center;
+}
+.divbox5{
+    width: 360px;
+    height: 451px;
+    background-color: #A5A2F6;
+    justify-content: center;
+    align-items: center;
+}
+.divbox6{
+    width: 360px;
+    height: 451px;
+    background-color: #FF8088;
+    justify-content: center;
+    align-items: center;
+}
+.wave{
+    width: 270px;
+    background-color: #3D37F1;
+    font-size: 23px;
+    color: white;
+    border-radius: 38px;
+    justify-content: space-between;
+    display: flex; 
+    padding: 24px 59.7px 25px 43px;
+}
