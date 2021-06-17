@@ -1,6 +1,7 @@
 .box1{
     display: flex;
-    margin:67px 
+    margin:67px;
+    margin-bottom: 287px;
 }
 .navigation{
     display: flex;
@@ -9,14 +10,27 @@
 .nav-a{
     margin-left: 20px;
 }
+.paragrap1{
+    margin-bottom: 42px;
+    width: 500px;
+    font-family: 'Roboto';
+    font-size: 55px;
+    color: #534D4D;
+}
+.paragrap2{
+    font-family: 'Roboto';
+    color: #534D4D;
+    width: 590px;
+    margin-bottom: 150px;
+}
 .left-block{
-    width: 630px;
-    margin-top: 285px;
+    width: 300px;
+    /* margin-top: 285px; */
     margin-right: 307px;
 }
 .right-block{
     width: 850px;
-    margin-top: 267px;
+    /* margin-top: 267px; */
 }
 .satauri{
     text-align: center;
@@ -112,4 +126,15 @@
     justify-content: space-between;
     display: flex; 
     padding: 24px 59.7px 25px 43px;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.block-wraper{
+    display: flex;
+    justify-content: space-around;
+}
+.size{
+    margin-top: 60px;
 }
